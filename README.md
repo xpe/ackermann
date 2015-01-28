@@ -4,8 +4,10 @@ Ways to write the Ackermann function in Clojure.
 
 ## Usage
 
+```clj
 (require '[acker.core :as a])
 (a/ack-3 2 1)
+```
 
 ## License
 
